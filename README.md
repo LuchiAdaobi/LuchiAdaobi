@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuchiAdaobi
-- 👀 I’m interested in front-end technologies and web3
+- 👀 I’m interested in front-end and web3 technologies
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on React & web3 open source projects
 - 📫 How to reach me ...Twitter: @codingLuchi
