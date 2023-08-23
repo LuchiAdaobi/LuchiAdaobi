@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuchiAdaobi
 - 👀 I’m interested in front-end technologies, ML/AI
-- 🌱 I’m currently learning Javascript and React
+- 🌱 I’m currently learning Typescript and NextJS
 - 💞️ I’m looking to collaborate on React & open-source projects
 - 📫 How to reach me ...Twitter: @codingLuchi
 
